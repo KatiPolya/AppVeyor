@@ -12,3 +12,4 @@
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ql24cbfe2ccj5txi?svg=true)](https://ci.appveyor.com/project/KatiPolya/appveyor)
